@@ -1,0 +1,15 @@
+# Interview-java-program
+# Write a program in C to display the first 10 natural numbers.
+
+import java.util.*;
+class natural
+{
+public static void main(String [] args)
+{
+int n,i;
+for(i=0;i<=n;i++) // using for loop
+{
+System.out.println(i);
+}
+}
+}
