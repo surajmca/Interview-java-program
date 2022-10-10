@@ -1,0 +1,25 @@
+# Interview-java-program
+# Write a C program to find the sum of first 10 natural numbers.
+import java.util.*;
+class Q2
+{
+	public static void main(String [] agrs)
+	{
+		 int i,n;
+		 Scanner sc = new Scanner(System.in);
+		 int sum =0;
+		 System.out.println("Enter the terms : ");
+		 n=sc.nextInt();
+		 for(i=0;i<n;i++)
+		 {
+			 sum=sum+i;
+		 }
+		 System.out.println(sum);
+	}
+}
+
+#--------output------------
+#--------output------------
+#--------output------------
+  n=5
+  sum 10
